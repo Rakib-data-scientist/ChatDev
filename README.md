@@ -29,5 +29,5 @@
 13.
 ![CHAT-DEV-A-Virtual-Chat-Powered-Company-for-Streamlined-Software-Development_page-0013](https://github.com/Rakib-data-scientist/ChatDev/assets/137823730/44d40231-f495-4489-b904-d824802863dc)
 
-Inspired by : https://arxiv.org/pdf/2307.07924v3.pdf
+* Inspired by : https://arxiv.org/pdf/2307.07924v3.pdf
 
