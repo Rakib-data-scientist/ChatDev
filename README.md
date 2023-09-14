@@ -1,6 +1,6 @@
 # ChatDev
 
-Inspired by : https://arxiv.org/pdf/2307.07924v3.pdf
+
 
 1.
 ![CHAT-DEV-A-Virtual-Chat-Powered-Company-for-Streamlined-Software-Development_page-0001](https://github.com/Rakib-data-scientist/ChatDev/assets/137823730/e6909df1-d72a-4913-8c43-a22c48e0608c)
@@ -28,4 +28,6 @@ Inspired by : https://arxiv.org/pdf/2307.07924v3.pdf
 ![CHAT-DEV-A-Virtual-Chat-Powered-Company-for-Streamlined-Software-Development_page-0012](https://github.com/Rakib-data-scientist/ChatDev/assets/137823730/fc67d0a0-42f7-4cc1-b571-3b0177598093)
 13.
 ![CHAT-DEV-A-Virtual-Chat-Powered-Company-for-Streamlined-Software-Development_page-0013](https://github.com/Rakib-data-scientist/ChatDev/assets/137823730/44d40231-f495-4489-b904-d824802863dc)
+
+Inspired by : https://arxiv.org/pdf/2307.07924v3.pdf
 
